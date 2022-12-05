@@ -1,0 +1,182 @@
+*{
+    color: #00174F;
+    line-height: 1.73333rem;
+    font-family: "FuturaLTW02-Book",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    margin-left: 0;
+    scroll-behavior: smooth;
+  
+}
+
+.nav-item{
+    font-family: "FuturaLTW02-Book",Helvetica,Arial,sans-serif;
+}
+
+.logo{
+    position:absolute ;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-class{
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    
+   
+   
+}
+.home-img{
+   margin-top: -1em;
+   filter: brightness(85%);
+    
+}
+.nav-right-content{
+    position: absolute;
+    right: 6em;
+}
+
+.image-text{
+   
+    width: 60%;
+   top: 50%;
+   left: 20%;
+   position: absolute;
+    
+   
+    
+}
+.paragraph-content{
+    text-align: center;
+    padding-top: 5em;
+    font-family: "FuturaLTW02-Book",Helvetica,Arial,sans-serif;
+    width: 80vw;
+    max-width: 76.8rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+.btns{
+    border-radius: 0%;
+    width: 12em;
+    height: 45px;
+    background-color: #00174F;
+    color: #fff;
+    border: 0;
+}
+
+p{
+    line-height: 2.66667rem;
+    font-size: 2.13333rem;
+
+}
+.perfect-text{
+    margin-top: 15em;
+    margin-left: 2em;
+}
+.season-heading{
+    text-transform: uppercase;
+    color: #00174F; 
+    opacity: 0.2;
+    margin-top: 6em;
+    
+}
+
+.img-in-box{
+
+
+width: 35vw;
+margin-left: -.9em;
+margin-top: -1em;
+
+}
+.img-blue-backg{
+    background:#00174F ;
+    width: 35vw;
+    height: 46vw;
+    margin-top: 8em; 
+    margin-left: 9em;
+    position: relative;
+    overflow: hidden;
+}
+.img-red-backg{
+    background:#CC0C2F ; 
+    width: 35vw; 
+    height: 46vw;
+    margin-top: 12em;
+    position: relative;
+    overflow: hidden;
+
+}
+.img-btn{
+    background-color: #fff;
+    color: #00174F;
+    width: 115%;
+    transition: .5s ease-in-out;
+}
+.img-blue-backg :hover{
+    transform: scale(1.1);
+    
+}
+.img-red-backg :hover{
+    transform: scale(1.1);
+    
+}
+.kids-img-text{
+    color: #fff;
+    position: absolute;
+    bottom: 22%;
+
+}
+.about{
+    font-size: 6vw;
+    font-weight: bold;
+    
+}
+.footer-title{
+    color: #fff;
+    font-size: 1.5vw;
+}
+.footer-primery-content{
+    list-style-type: none;
+    margin-left: -2em;
+    margin-top: 2em;
+}
+.footer-primery-content li  a{
+    
+   text-decoration: none;
+   color: #fff;
+
+}
+.footer-primery-content  li{
+    margin-top: 1em;
+    font-size: 1em;
+}
+.img-border{
+    border-bottom: solid 2px #fff;
+    padding-bottom:3em;
+    border-spacing: 1em;
+
+}
+.footer-last-div{
+    list-style-type: none;
+    display: flex;
+
+}
+.footer-last-div li{
+    margin-left: 2em;
+}
+.footer-last-div li a{
+    text-decoration: none;
+     color: #fff;
+
+}
+
+
+
+.footer-primery-content li :hover{
+    border-bottom: 1px solid white;
+    
+}
